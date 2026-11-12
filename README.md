@@ -9,7 +9,6 @@
     <a href="https://ahmadhassan.opsven.ai"><img src="https://img.shields.io/badge/Website-ahmadhassan.opsven.ai-09ADB8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <a href="https://www.linkedin.com/in/ahmdhsnkhan"><img src="https://img.shields.io/badge/LinkedIn-ahmdhsnkhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:ahmdhsnkhan@icloud.com"><img src="https://img.shields.io/badge/Email-ahmdhsnkhan%40icloud.com-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" /></a>
-    <a href="https://linktr.ee/ahmdhsnkhan"><img src="https://img.shields.io/badge/Linktree-ahmdhsnkhan-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
   </p>
 </div>
 
@@ -20,9 +19,6 @@
 I'm a DevOps and platform engineer who also writes the application code. My work sits where infrastructure, software, and AI meet. I combine cloud, Kubernetes, CI/CD, and observability with full-stack development and AI tooling, so teams can build, ship, and run their systems on one connected foundation.
 
 As a founding engineer, I own infrastructure, delivery pipelines, and operations end to end.
-
-- 📍 Islamabad, Pakistan (UTC+5), working remotely
-- 💼 Open to full-time platform/DevOps roles and consulting
 
 ```yaml
 # ahmad.yaml
