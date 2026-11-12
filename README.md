@@ -21,7 +21,7 @@ I'm a DevOps and platform engineer who also writes the application code. My work
 As a founding engineer, I own infrastructure, delivery pipelines, and operations end to end.
 
 ```yaml
-# ahmad.yaml
+# ahmdhsnkhan.yaml
 apiVersion: people/v1
 kind: Engineer
 metadata:
