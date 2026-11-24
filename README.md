@@ -1,12 +1,12 @@
 <div align="center">
-  <a href="https://ahmadhassan.opsven.ai">
+  <a href="https://ahmadhassan.tech">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=160&section=header&text=Ahmad%20Hassan&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Platform%20Engineer%20%7C%20AI%20%2B%20DevOps&descAlignY=52" width="100%" alt="Ahmad Hassan" />
   </a>
 
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&center=true&vCenter=true&width=600&lines=DevOps+and+Platform+Engineer;Kubernetes+%C2%B7+Terraform+%C2%B7+CI%2FCD+%C2%B7+Observability;Open+to+full-time+roles+and+consulting" alt="Typing animation" />
 
   <p>
-    <a href="https://ahmadhassan.opsven.ai"><img src="https://img.shields.io/badge/Website-ahmadhassan.opsven.ai-09ADB8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="https://ahmadhassan.tech"><img src="https://img.shields.io/badge/Website-ahmadhassan.tech-09ADB8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <a href="https://www.linkedin.com/in/ahmdhsnkhan"><img src="https://img.shields.io/badge/LinkedIn-ahmdhsnkhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:ahmdhsnkhan@icloud.com"><img src="https://img.shields.io/badge/Email-ahmdhsnkhan%40icloud.com-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" /></a>
   </p>
